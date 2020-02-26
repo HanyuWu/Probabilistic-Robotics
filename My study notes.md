@@ -1,3 +1,6 @@
+**Learning Materials from Prof. Wolfram Burgard**  
+[University of Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ss18/robotics/)
+
 **Recommended reading order**  
 * Chap. 2 &rArr; Chap. 7,8 &rArr; Chap. 3,4,5,6  
 * Chap. 14 can be read early
