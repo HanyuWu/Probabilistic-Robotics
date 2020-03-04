@@ -40,5 +40,25 @@ dynamic state, static state
 	+ location and velocitirs of movin objects and people are also potential state varibales
 	+ whether a senor is broken can be state variable &rArr; endless state variables
 
+---------------------
+# I don't simply watched textbook anymore, I  started to watch the videos from Prof. Wolfram Burgard<br>
 
+## **06.Probabilistic-Motion-Models-Part1 (Chapter. 5 in textbook )**<br>   
 
++ 2 kinds of distributions:<br>
+  + Normal Distribution
+  + Triangular Distribution
++ Two types of motion model:
+  + Odometry-based
+  + Velocity-based (dead reckoning)<br>
+
++ The atan2 function:<br>
+
+<img src="https://latex.codecogs.com/svg.latex?atan2(y,x)=\left\{\begin{matrix}&space;atan(y/x)&space;&&space;if\,&space;x&space;>0\\&space;sign(y)(\pi-atan(\left&space;|&space;y/x&space;\right&space;|)&space;&&space;if\,&space;x<0\\&space;0&space;&&space;if\,&space;x=y=0\\&space;sign(y)\pi/2&space;&&space;if\,&space;x=0,y\neq&space;0&space;\end{matrix}\right" title="atan2(y,x)=\left\{\begin{matrix} atan(y/x) & if\, x >0\\ sign(y)(\pi-atan(\left | y/x \right |) & if\, x<0\\ 0 & if\, x=y=0\\ sign(y)\pi/2 & if\, x=0,y\neq 0 \end{matrix}\right" /><br>
+
+## **07.Probabilistic-Motion-Models-Part2 (Chapter. 5 in textbook )**<br>  
+
++ Two motion model
+Mathematical Derivation in 5.3.3 and 5.4.3
++ Sampling Algorithm 5.3.2 and 5.4.2
++ Map-Consistent Motion Model (Consider all kinds of obstacles...  )
